@@ -1,6 +1,7 @@
 # SQL
 
 Database Classicmodels
+run mysqlsampledatabase.sql
 
 Database Film Locations in San Francisco
 import csv file Film_Locations_in_San_Francisco.csv from source
